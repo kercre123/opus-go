@@ -1,8 +1,8 @@
-module github.com/digital-dream-labs/opus-go
+module github.com/kercre123/opus-go
 
 go 1.14
 
 require (
 	github.com/grd/ogg v0.0.0-20130623210630-0dae53159b70
-	gopkg.in/hraban/opus.v2 v2.0.0-20201025103112-d779bb1cc5a2
+	github.com/pion/opus v0.0.0-20230123082803-1052c3e89e58
 )
